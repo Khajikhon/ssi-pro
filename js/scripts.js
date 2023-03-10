@@ -1,4 +1,4 @@
-// const myModal = new bootstrap.Modal(document.getElementById("loadStateModal"));
+
 const loader = document.querySelector("#loadingIndicator");
 
 let partnersList = document.querySelector('.patners-list');
